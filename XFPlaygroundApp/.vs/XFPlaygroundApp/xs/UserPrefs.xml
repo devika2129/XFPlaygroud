@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{9098BC3D-484E-445A-8868-86027BD2F6D8}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XFPlaygroundApp" expanded="True">
+            <Node name="XFPlaygroundApp" expanded="True" />
+            <Node name="XFPlaygroundApp.Android" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XFPlaygroundApp.Android PreferredExecutionTarget="Android.Pixel_3a_API_31" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
